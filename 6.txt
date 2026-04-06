@@ -1,0 +1,8 @@
+java -version
+hdfs version
+hdfs namenode -format
+C:\Windows\System32>   cd..
+C:\Windows>            cd..
+cd hadoop-3.2.4
+cd sbin
+start-all.cmd
